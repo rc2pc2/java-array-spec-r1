@@ -1,5 +1,4 @@
-```markdown
-# 🎮 Java Array Mastery - Esercizi Progressivi
+# Java Array Super Spec - Esercizi Progressivi A
 
 ## Esercizio 1: Kill Feed Filter
 
